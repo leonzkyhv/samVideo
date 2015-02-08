@@ -22,3 +22,30 @@ body {
     width: 100%;
     background-color: #0F0;
 }
+
+#leftContainer{
+    width: 30%;
+    height: 100%;
+    background-color: #0FF;
+    float: left;
+}
+
+#rightContainer{
+    width: 70%;
+    height: 100%;
+    background-color: #00F;
+    float: right;
+}
+
+
+#videoContainer{
+    height: 50%;
+    width: 100%;
+    background-color: #FF0;
+}
+
+#seleccionContainer{
+    height: 50%;
+    width: 100%;
+    background-color: #ABABAB;
+}
